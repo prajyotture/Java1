@@ -19,7 +19,7 @@ public class Main {
             System.exit(0);
         } else {
             System.out.println("Failed!!");
-            System.exit(1);
+            System.exit(1)
         }
     }
 }
